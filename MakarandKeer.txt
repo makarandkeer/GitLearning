@@ -10,3 +10,9 @@ Changed in Master 001
 08-25-2020 Feature01 - Change 01
 
 added diectly in master
+-----------------------------
+Change 001 for Squash testing
+-----------------------------
+Change 002 for Squash testing
+-----------------------------
+Change 003 for Squash testing
